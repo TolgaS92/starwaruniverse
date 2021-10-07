@@ -1,4 +1,5 @@
 import { Result } from '../../types';
+import { Link } from 'react-router-dom';
 
 interface PersonProps {
   person: Result
@@ -18,8 +19,12 @@ function Person({ person }: PersonProps) {
               <li className="list-group-item">Eye Color : {person.eye_color}</li>
               <li className="list-group-item">BoD : {person.birth_year}</li>
               <li className="list-group-item">Gender : {person.gender}</li>
-              <li className="list-group-item">Films : {person.films}</li>
-              <li className="list-group-item">Species : {person.species}</li>
+              Films : 
+              {person.films.map((movie, index) => {
+                return<li className="list-group" key= {index}>
+                <Link to={"/films/" + (index+1)}>Movie {index+1 } Click for details!</Link>
+                </li>
+              })}
             </ul>
             </div>
           </div>
