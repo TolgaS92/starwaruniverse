@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/starwaruniverse/static/css/main.b8c321ea.chunk.css",
-    "main.js": "/starwaruniverse/static/js/main.b491b4c5.chunk.js",
-    "main.js.map": "/starwaruniverse/static/js/main.b491b4c5.chunk.js.map",
+    "main.js": "/starwaruniverse/static/js/main.e76b89d1.chunk.js",
+    "main.js.map": "/starwaruniverse/static/js/main.e76b89d1.chunk.js.map",
     "runtime-main.js": "/starwaruniverse/static/js/runtime-main.ff0a35e1.js",
     "runtime-main.js.map": "/starwaruniverse/static/js/runtime-main.ff0a35e1.js.map",
     "static/css/2.0f1110e3.chunk.css": "/starwaruniverse/static/css/2.0f1110e3.chunk.css",
-    "static/js/2.dab8032b.chunk.js": "/starwaruniverse/static/js/2.dab8032b.chunk.js",
-    "static/js/2.dab8032b.chunk.js.map": "/starwaruniverse/static/js/2.dab8032b.chunk.js.map",
+    "static/js/2.4ea2b1a7.chunk.js": "/starwaruniverse/static/js/2.4ea2b1a7.chunk.js",
+    "static/js/2.4ea2b1a7.chunk.js.map": "/starwaruniverse/static/js/2.4ea2b1a7.chunk.js.map",
     "index.html": "/starwaruniverse/index.html",
     "static/css/2.0f1110e3.chunk.css.map": "/starwaruniverse/static/css/2.0f1110e3.chunk.css.map",
     "static/css/main.b8c321ea.chunk.css.map": "/starwaruniverse/static/css/main.b8c321ea.chunk.css.map",
-    "static/js/2.dab8032b.chunk.js.LICENSE.txt": "/starwaruniverse/static/js/2.dab8032b.chunk.js.LICENSE.txt"
+    "static/js/2.4ea2b1a7.chunk.js.LICENSE.txt": "/starwaruniverse/static/js/2.4ea2b1a7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ff0a35e1.js",
     "static/css/2.0f1110e3.chunk.css",
-    "static/js/2.dab8032b.chunk.js",
+    "static/js/2.4ea2b1a7.chunk.js",
     "static/css/main.b8c321ea.chunk.css",
-    "static/js/main.b491b4c5.chunk.js"
+    "static/js/main.e76b89d1.chunk.js"
   ]
 }
