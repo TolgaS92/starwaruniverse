@@ -18,7 +18,6 @@ function People() {
     setSearch(search)
     }
   };
-  console.log(search)
   return (
     <div>
       <SearchPerson 
@@ -29,7 +28,7 @@ function People() {
       <tbody>
       <tr>
           <th scope="row">
-      {people.map(person => <Person key={person.name} person={person} />)}
+            {people.map(person => <Person key={person.name} person={person} />)}
           </th>
       </tr>
       </tbody>
