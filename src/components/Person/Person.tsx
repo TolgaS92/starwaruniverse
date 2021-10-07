@@ -22,7 +22,7 @@ function Person({ person }: PersonProps) {
               Films : 
               {person.films.map((movie, index) => {
                 return<li className="list-group" key= {index}>
-                <Link to={"/films/" + (index+1)}>Movie {index+1 } Click for details!</Link>
+                <Link to="/starwaruniverse">Movie {index+1 } Click for details!</Link>
                 </li>
               })}
             </ul>
