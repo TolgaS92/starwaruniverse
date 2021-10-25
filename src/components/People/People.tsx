@@ -27,7 +27,7 @@ function People() {
       <table className="table table-light">
       <tbody>
       <tr>
-          <th scope="row">
+          <th>
             {people.map(person => <Person key={person.name} person={person} />)}
           </th>
       </tr>
